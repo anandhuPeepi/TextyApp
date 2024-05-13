@@ -1,0 +1,18 @@
+{
+  "indexes": [
+    {
+      "collectionGroup": "message",
+      "queryScope": "COLLECTION",
+      "fields": [
+        {
+          "fieldPath": "chatRef",
+          "order": "ASCENDING"
+        },
+        {
+          "fieldPath": "msgTime",
+          "order": "DESCENDING"
+        }
+      ]
+    }
+  ]
+}

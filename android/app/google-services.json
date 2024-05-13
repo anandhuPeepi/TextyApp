@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "385276065417",
+    "project_id": "texy-app-9vjfub",
+    "storage_bucket": "texy-app-9vjfub.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:385276065417:android:538a38373e488a93027858",
+        "android_client_info": {
+          "package_name": "com.mycompany.texyapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALhwWz9xM6TIjLmB7VXv7HJoqGgj7yy40"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
